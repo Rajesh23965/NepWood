@@ -1,0 +1,180 @@
+@media screen and (max-width: 481px) {
+  section {
+    padding: 0px 10px;
+  }
+  .top-bar {
+    font-size: 12px;
+    padding-left: 20px;
+  }
+
+  .time-stamp {
+    display: none;
+  }
+
+  .envelope {
+    border-left: none;
+    padding-inline: 0px;
+  }
+
+  .contact-info {
+    margin-left: 0px;
+    gap: 3px;
+  }
+
+  header > div > .logo {
+    height: 65px;
+  }
+
+  .header-title-box {
+    padding: 10px 15px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    line-height: 1.5;
+  }
+
+  .col-xs-6 {
+    width: 50%;
+  }
+
+  .col-xs-12 {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  .pt-sm-4 {
+    padding-top: 15px;
+  }
+
+  header {
+    /* display: flex; */
+    justify-content: space-evenly !important;
+  }
+
+  .header-office {
+    font-size: 16px;
+  }
+
+  .header-department {
+    font-size: 13px;
+  }
+  .header-ministry {
+    font-size: 11px;
+  }
+
+  .header-province {
+    font-size: 8px;
+  }
+  .header-address {
+    font-size: 10px;
+  }
+
+  .updates {
+    font-size: 11px;
+  }
+  .news-section .updates::after {
+    border-bottom: solid 19px var(--cs-main-color);
+    border-top: solid 19px var(--cs-main-color);
+    border-right: solid 20px #f2f2f2;
+
+    margin-left: 16px;
+    margin-top: -10px;
+  }
+  .col-sm-12 {
+    width: 100%;
+  }
+  .update-news {
+    margin-left: 6px;
+    height: 38px;
+  }
+
+  .marquee ul {
+    font-size: 12px;
+  }
+
+  .splide__slide img {
+    height: 250px !important;
+  }
+
+  .right-side {
+    margin-top: 20px;
+  }
+
+  .extra-info > div {
+    margin-inline: 10px;
+  }
+  .divideer {
+    width: 30%;
+  }
+
+  .news-section {
+    padding: 5px 0px;
+  }
+  .mainSlider .splide__slide img {
+    vertical-align: top !important;
+    height: 247px !important;
+    width: 100% !important;
+  }
+
+  .employee-image-box {
+    width: 100%;
+    height: 100%;
+  }
+
+  .dropdown {
+    position: relative;
+    display: flex;
+    flex: row !important;
+  }
+
+  .dropdown-menu {
+    display: none;
+  }
+
+  .dropdown.open .dropdown-menu {
+    display: block;
+    position: absolute;
+  }
+
+  .nav-item {
+    background: var(--cs-main-color);
+    margin-bottom: 2px;
+    border-bottom: 1px solid #9b9999;
+  }
+
+  nav ul .nav-item:first-child,
+  nav ul li + .dropdown {
+    border-right: none !important;
+    border-left: none !important;
+  }
+
+  .nav-item .nav-link {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding-inline: 10px !important;
+  }
+
+  .navbar-toggler,
+  .navbar-nav {
+    margin: 5px 0px;
+  }
+}
+
+@media (min-width: 481px) {
+  /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */
+}
+@media (min-width: 641px) {
+  /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */
+}
+@media (min-width: 961px) {
+  /* tablet, landscape iPad, lo-res laptops ands desktops */
+}
+@media (min-width: 1025px) {
+  /* big landscape tablets, laptops, and desktops */
+}
+@media (min-width: 1281px) {
+  /* hi-res laptops and desktops */
+}

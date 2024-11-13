@@ -1,0 +1,414 @@
+CRITICAL - 2024-10-24 13:26:58 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/building1.png]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:03 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/building1.png]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:06 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/1720686291_c2c914db80c6d4d53aae.png]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:06 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/1720686291_c2c914db80c6d4d53aae.png]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:15 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/1720686291_c2c914db80c6d4d53aae.png]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:15 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66dfd800c6c52.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:15 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66dfd800c61ae.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:15 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66dfd800c5749.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:15 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66dfd800c4a03.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:15 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66ddf0d1c822c.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:15 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66dd8a00062db.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:15 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66dd8a0005534.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:15 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66dd8a000471d.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:15 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66dd8a0003658.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:15 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66dada1d05759.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:16 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66dad9ead83ac.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:16 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66dad9ead735a.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:16 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66dad9ead6979.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:16 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66dad9ead603e.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:16 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66d67d4f5b3fc.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:16 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66d67d4f5a85d.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:16 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66d67d4f59c33.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:16 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66d67d4f591da.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:16 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66d67d4f5875b.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:16 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66d67d4f57cc3.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:21 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/1720686291_c2c914db80c6d4d53aae.png]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:21 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66dfd800c6c52.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:22 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66dfd800c61ae.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:22 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66dfd800c5749.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:22 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66dfd800c4a03.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:22 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66ddf0d1c822c.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:22 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66dd8a00062db.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:22 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66dd8a0005534.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:22 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66dd8a000471d.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:22 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66dd8a0003658.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:22 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66dada1d05759.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:22 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66dad9ead83ac.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:22 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66dad9ead735a.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:22 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66dad9ead6979.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:22 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66dad9ead603e.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:22 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66d67d4f5b3fc.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:22 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66d67d4f5a85d.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:22 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66d67d4f59c33.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:22 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66d67d4f591da.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:22 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66d67d4f5875b.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')
+CRITICAL - 2024-10-24 13:27:22 --> CodeIgniter\Exceptions\PageNotFoundException: Page Not Found
+[Method: GET, Route: assets/uploads/66d67d4f57cc3.jpg]
+in SYSTEMPATH/CodeIgniter.php on line 981.
+ 1 SYSTEMPATH/CodeIgniter.php(981): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound()
+ 2 SYSTEMPATH/CodeIgniter.php(364): CodeIgniter\CodeIgniter->display404errors()
+ 3 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 5 FCPATH/index.php(41): CodeIgniter\Boot::bootWeb()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/NRCN/public/index.php')

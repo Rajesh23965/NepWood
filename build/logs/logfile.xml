@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="D:\xampp\htdocs\nahnew\phpunit.xml.dist" tests="1" assertions="0" errors="1" failures="0" skipped="0" time="0.000000">
+    <testsuite name="App" tests="1" assertions="0" errors="1" failures="0" skipped="0" time="0.000000">
+      <testsuite name="ExampleDatabaseTest" file="D:\xampp\htdocs\nahnew\tests\database\ExampleDatabaseTest.php" tests="1" assertions="0" errors="1" failures="0" skipped="0" time="0.000000">
+        <testcase name="testModelFindAll" file="D:\xampp\htdocs\nahnew\tests\database\ExampleDatabaseTest.php" line="17" class="ExampleDatabaseTest" classname="ExampleDatabaseTest" assertions="0" time="0.000000">
+          <error type="CodeIgniter\Database\Exceptions\DatabaseException">ExampleDatabaseTest::testModelFindAll&#13;
+CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.&#13;
+Main connection [SQLite3]: Class "SQLite3" not found
+&#13;
+D:\xampp\htdocs\nahnew\system\Database\BaseConnection.php:457
+D:\xampp\htdocs\nahnew\system\Database\SQLite3\Connection.php:60
+D:\xampp\htdocs\nahnew\system\Test\DatabaseTestTrait.php:82
+D:\xampp\htdocs\nahnew\system\Test\DatabaseTestTrait.php:58
+D:\xampp\htdocs\nahnew\system\Test\CIUnitTestCase.php:251</error>
+        </testcase>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>
