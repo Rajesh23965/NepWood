@@ -26,11 +26,7 @@ $routes->get('get-front-newsticker-details', 'Admin\ApiController::getNewsticker
 
 
 
-
-
-
-
-
+$routes->get('get-front-product-details', 'Admin\ApiController::getFrontendProducts');
 
 
 
